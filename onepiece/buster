@@ -1,0 +1,136 @@
+403        9l       28w      278c http://10.10.195.108/.hta
+
+403        9l       28w      278c http://10.10.195.108/.htpasswd
+
+403        9l       28w      278c http://10.10.195.108/.htaccess
+
+403        9l       28w      278c http://10.10.195.108/.hta.php
+
+403        9l       28w      278c http://10.10.195.108/.htpasswd.php
+
+403        9l       28w      278c http://10.10.195.108/.htaccess.php
+
+403        9l       28w      278c http://10.10.195.108/.hta.html
+
+403        9l       28w      278c http://10.10.195.108/.htpasswd.html
+
+403        9l       28w      278c http://10.10.195.108/.htaccess.html
+
+403        9l       28w      278c http://10.10.195.108/.hta.png
+
+403        9l       28w      278c http://10.10.195.108/.htpasswd.png
+
+403        9l       28w      278c http://10.10.195.108/.htaccess.png
+
+403        9l       28w      278c http://10.10.195.108/.hta.jpg
+
+403        9l       28w      278c http://10.10.195.108/.htpasswd.jpg
+
+403        9l       28w      278c http://10.10.195.108/.htaccess.jpg
+
+403        9l       28w      278c http://10.10.195.108/.hta.txt
+
+403        9l       28w      278c http://10.10.195.108/.htpasswd.txt
+
+403        9l       28w      278c http://10.10.195.108/.htaccess.txt
+
+403        9l       28w      278c http://10.10.195.108/.hta.pdf
+
+403        9l       28w      278c http://10.10.195.108/.htpasswd.pdf
+
+403        9l       28w      278c http://10.10.195.108/.htaccess.pdf
+
+301        9l       28w      312c http://10.10.195.108/css
+
+403        9l       28w      278c http://10.10.195.108/css/.htaccess
+
+403        9l       28w      278c http://10.10.195.108/css/.htpasswd
+
+403        9l       28w      278c http://10.10.195.108/css/.hta
+
+403        9l       28w      278c http://10.10.195.108/css/.htpasswd.php
+
+403        9l       28w      278c http://10.10.195.108/css/.htaccess.php
+
+403        9l       28w      278c http://10.10.195.108/css/.hta.php
+
+403        9l       28w      278c http://10.10.195.108/css/.htpasswd.html
+
+403        9l       28w      278c http://10.10.195.108/css/.htaccess.html
+
+403        9l       28w      278c http://10.10.195.108/css/.hta.html
+
+403        9l       28w      278c http://10.10.195.108/css/.htpasswd.png
+
+403        9l       28w      278c http://10.10.195.108/css/.htaccess.png
+
+403        9l       28w      278c http://10.10.195.108/css/.hta.png
+
+403        9l       28w      278c http://10.10.195.108/css/.htpasswd.jpg
+
+403        9l       28w      278c http://10.10.195.108/css/.htaccess.jpg
+
+403        9l       28w      278c http://10.10.195.108/css/.hta.jpg
+
+403        9l       28w      278c http://10.10.195.108/css/.htaccess.txt
+
+403        9l       28w      278c http://10.10.195.108/css/.htpasswd.txt
+
+403        9l       28w      278c http://10.10.195.108/css/.hta.txt
+
+403        9l       28w      278c http://10.10.195.108/css/.htaccess.pdf
+
+403        9l       28w      278c http://10.10.195.108/css/.htpasswd.pdf
+
+403        9l       28w      278c http://10.10.195.108/css/.hta.pdf
+
+301        9l       28w      315c http://10.10.195.108/images
+
+200       22l      104w     1029c http://10.10.195.108/index.html
+
+200      751l     3672w   176494c http://10.10.195.108/ko.jpg
+
+403        9l       28w      278c http://10.10.195.108/images/.hta
+
+403        9l       28w      278c http://10.10.195.108/images/.htaccess
+
+403        9l       28w      278c http://10.10.195.108/images/.htpasswd
+
+403        9l       28w      278c http://10.10.195.108/images/.hta.php
+
+403        9l       28w      278c http://10.10.195.108/images/.htaccess.php
+
+403        9l       28w      278c http://10.10.195.108/images/.hta.html
+
+403        9l       28w      278c http://10.10.195.108/images/.htaccess.html
+
+403        9l       28w      278c http://10.10.195.108/images/.htaccess.png
+
+403        9l       28w      278c http://10.10.195.108/images/.htpasswd.php
+
+403        9l       28w      278c http://10.10.195.108/images/.htpasswd.html
+
+403        9l       28w      278c http://10.10.195.108/images/.htpasswd.png
+
+403        9l       28w      278c http://10.10.195.108/images/.htpasswd.jpg
+
+403        9l       28w      278c http://10.10.195.108/images/.htpasswd.txt
+
+403        9l       28w      278c http://10.10.195.108/images/.htpasswd.pdf
+
+403        9l       28w      278c http://10.10.195.108/images/.hta.png
+
+403        9l       28w      278c http://10.10.195.108/images/.hta.jpg
+
+403        9l       28w      278c http://10.10.195.108/images/.hta.txt
+
+403        9l       28w      278c http://10.10.195.108/images/.hta.pdf
+
+403        9l       28w      278c http://10.10.195.108/images/.htaccess.jpg
+
+403        9l       28w      278c http://10.10.195.108/images/.htaccess.txt
+
+403        9l       28w      278c http://10.10.195.108/images/.htaccess.pdf
+
+403        9l       28w      278c http://10.10.195.108/server-status
+

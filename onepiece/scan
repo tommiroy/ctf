@@ -1,6 +1,6 @@
-Starting Nmap 7.92 ( https://nmap.org ) at 2022-07-04 10:28 CEST
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-07-04 10:58 CEST
 Nmap scan report for 10.10.195.108
-Host is up (0.035s latency).
+Host is up (0.033s latency).
 Not shown: 65532 closed tcp ports (conn-refused)
 PORT   STATE SERVICE VERSION
 21/tcp open  ftp     vsftpd 3.0.3
@@ -16,18 +16,36 @@ PORT   STATE SERVICE VERSION
 |      Session timeout in seconds is 300
 |      Control connection is plain text
 |      Data connections will be plain text
-|      At session startup, client count was 3
+|      At session startup, client count was 2
 |      vsFTPd 3.0.3 - secure, fast, stable
 |_End of status
 22/tcp open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
 | ssh-hostkey: 
 |   2048 01:18:18:f9:b7:8a:c3:6c:7f:92:2d:93:90:55:a1:29 (RSA)
-|   256 cc:02:18:a9:b5:2b:49:e4:5b:77:f9:6e:c2:db:c9:0d (ECDSA)
 |_  256 b8:52:72:e6:2a:d5:7e:56:3d:16:7b:bc:51:8c:7b:2a (ED25519)
 80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
 |_http-title: New World
 |_http-server-header: Apache/2.4.29 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.92%E=4%D=7/4%OT=21%CT=1%CU=32298%PV=Y%DS=2%DC=T%G=Y%TM=62C2ABEB
+OS:%P=x86_64-pc-linux-gnu)SEQ(SP=FD%GCD=1%ISR=10D%TI=Z%CI=I%II=I%TS=A)OPS(O
+OS:1=M506ST11NW7%O2=M506ST11NW7%O3=M506NNT11NW7%O4=M506ST11NW7%O5=M506ST11N
+OS:W7%O6=M506ST11)WIN(W1=68DF%W2=68DF%W3=68DF%W4=68DF%W5=68DF%W6=68DF)ECN(R
+OS:=Y%DF=Y%T=40%W=6903%O=M506NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%
+OS:RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y
+OS:%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R
+OS:%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=
+OS:40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S
+OS:)
+
+Network Distance: 2 hops
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
-Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-Nmap done: 1 IP address (1 host up) scanned in 20.10 seconds
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   32.38 ms 10.14.0.1
+2   32.70 ms 10.10.195.108
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 31.67 seconds
