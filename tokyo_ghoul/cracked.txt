@@ -18,7 +18,18 @@ OpenCL API (OpenCL 3.0 CUDA 11.6.134) - Platform #2 [NVIDIA Corporation]
 Minimum password length supported by kernel: 0
 Maximum password length supported by kernel: 256
 
-Sorting hashes...[2KSorted hashes...[2KRemoving duplicate hashes...[2KRemoved duplicate hashes...[2KSorting salts...[2KSorted salts...[2KComparing hashes with potfile entries...[2KCompared hashes with potfile entries...[2KINFO: All hashes found in potfile! Use --show to display them.
+Sorting hashes...[2K
+Sorted hashes...[2K
+Removing duplicate hashes...[2K
+Removed duplicate hashes...[2K
+Sorting salts...[2K
+Sorted salts...[2K
+Comparing hashes with potfile entries...[2K
+Compared hashes with potfile entries...[2K
+INFO: All hashes found in potfile! Use --show to display them.
 
 Started: Tue Jul 12 16:43:20 2022
-[2KStopped: Tue Jul 12 16:43:21 2022
+[2K
+Stopped: Tue Jul 12 16:43:21 2022
+
+Password :   password123
