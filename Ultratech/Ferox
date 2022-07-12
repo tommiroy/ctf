@@ -1,0 +1,118 @@
+200       17l       69w     1139c http://10.10.127.219:31331/css/
+
+403       11l       32w      304c http://10.10.127.219:31331/css/.htpasswd
+
+403       11l       32w      304c http://10.10.127.219:31331/css/.htaccess
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htpasswd.pdf
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htaccess.pdf
+
+403       11l       32w      309c http://10.10.127.219:31331/css/.htpasswd.html
+
+403       11l       32w      309c http://10.10.127.219:31331/css/.htaccess.html
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htpasswd.php
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htaccess.php
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htpasswd.jpg
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htaccess.jpg
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htpasswd.png
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htaccess.png
+
+403       11l       32w      309c http://10.10.127.219:31331/css/.htaccess.jpeg
+
+403       11l       32w      309c http://10.10.127.219:31331/css/.htpasswd.jpeg
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htaccess.txt
+
+403       11l       32w      308c http://10.10.127.219:31331/css/.htpasswd.txt
+
+200        7l       25w    15086c http://10.10.127.219:31331/favicon.ico
+
+200       31l      205w     4171c http://10.10.127.219:31331/images/
+
+403       11l       32w      307c http://10.10.127.219:31331/images/.htaccess
+
+403       11l       32w      307c http://10.10.127.219:31331/images/.htpasswd
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htaccess.pdf
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htpasswd.pdf
+
+403       11l       32w      312c http://10.10.127.219:31331/images/.htpasswd.html
+
+403       11l       32w      312c http://10.10.127.219:31331/images/.htaccess.html
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htaccess.php
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htpasswd.php
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htaccess.jpg
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htpasswd.jpg
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htaccess.png
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htpasswd.png
+
+403       11l       32w      312c http://10.10.127.219:31331/images/.htaccess.jpeg
+
+403       11l       32w      312c http://10.10.127.219:31331/images/.htpasswd.jpeg
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htaccess.txt
+
+403       11l       32w      311c http://10.10.127.219:31331/images/.htpasswd.txt
+
+200      139l      531w     6092c http://10.10.127.219:31331/index.html
+
+403       11l       32w      302c http://10.10.127.219:31331/javascript/
+
+200       18l       82w     1324c http://10.10.127.219:31331/js/
+
+403       11l       32w      303c http://10.10.127.219:31331/js/.htaccess
+
+403       11l       32w      303c http://10.10.127.219:31331/js/.htpasswd
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htaccess.pdf
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htpasswd.pdf
+
+403       11l       32w      308c http://10.10.127.219:31331/js/.htaccess.html
+
+403       11l       32w      308c http://10.10.127.219:31331/js/.htpasswd.html
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htpasswd.php
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htaccess.php
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htaccess.jpg
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htpasswd.jpg
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htaccess.png
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htpasswd.png
+
+403       11l       32w      308c http://10.10.127.219:31331/js/.htaccess.jpeg
+
+403       11l       32w      308c http://10.10.127.219:31331/js/.htpasswd.jpeg
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htaccess.txt
+
+403       11l       32w      307c http://10.10.127.219:31331/js/.htpasswd.txt
+
+403       11l       32w      308c http://10.10.127.219:31331/javascript/async/
+
+200        5l        6w       53c http://10.10.127.219:31331/robots.txt
+
+200     1058l     3007w    32659c http://10.10.127.219:31331/javascript/async/async
+
+403       11l       32w      304c http://10.10.127.219:31331/server-status
+
+200       65l      229w     2534c http://10.10.127.219:31331/what.html
+

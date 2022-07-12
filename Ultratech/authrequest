@@ -1,0 +1,12 @@
+GET /auth?login=fuck&password=off HTTP/1.1
+Host: 10.10.127.219:8081
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-GPC: 1
+Referer: http://10.10.127.219:31331/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+If-None-Match: W/"13-5BeEbsCKuYi/D6yoiMYWlEvunLM"
+Connection: close
+
