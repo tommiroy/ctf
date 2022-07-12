@@ -1,0 +1,24 @@
+hashcat (v6.1.1) starting...
+
+[33m* Device #2: CUDA SDK Toolkit installation NOT detected.[0m
+[33m             CUDA SDK Toolkit installation required for proper device support and utilization[0m
+[33m             Falling back to OpenCL Runtime[0m
+[33m[0m
+[33m* Device #2: WARNING! Kernel exec timeout is not disabled.[0m
+[33m             This may cause "CL_OUT_OF_RESOURCES" or related errors.[0m
+[33m             To disable the timeout, see: https://hashcat.net/q/timeoutpatch[0m
+OpenCL API (OpenCL 1.2 pocl 1.6, None+Asserts, LLVM 9.0.1, RELOC, SLEEF, DISTRO, POCL_DEBUG) - Platform #1 [The pocl project]
+=============================================================================================================================
+* Device #1: pthread-Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz, skipped
+
+OpenCL API (OpenCL 3.0 CUDA 11.6.134) - Platform #2 [NVIDIA Corporation]
+========================================================================
+* Device #2: NVIDIA GeForce RTX 2070, 7040/7979 MB (1994 MB allocatable), 36MCU
+
+Minimum password length supported by kernel: 0
+Maximum password length supported by kernel: 256
+
+Sorting hashes...[2KSorted hashes...[2KRemoving duplicate hashes...[2KRemoved duplicate hashes...[2KSorting salts...[2KSorted salts...[2KComparing hashes with potfile entries...[2KCompared hashes with potfile entries...[2KINFO: All hashes found in potfile! Use --show to display them.
+
+Started: Tue Jul 12 16:43:20 2022
+[2KStopped: Tue Jul 12 16:43:21 2022

@@ -1,0 +1,62 @@
+403        9l       28w      277c http://10.10.25.225/.htaccess
+
+403        9l       28w      277c http://10.10.25.225/.htpasswd
+
+403        9l       28w      277c http://10.10.25.225/.htaccess.txt
+
+403        9l       28w      277c http://10.10.25.225/.htpasswd.txt
+
+403        9l       28w      277c http://10.10.25.225/.htaccess.pdf
+
+403        9l       28w      277c http://10.10.25.225/.htpasswd.pdf
+
+403        9l       28w      277c http://10.10.25.225/.htaccess.png
+
+403        9l       28w      277c http://10.10.25.225/.htpasswd.png
+
+403        9l       28w      277c http://10.10.25.225/.htaccess.jpg
+
+403        9l       28w      277c http://10.10.25.225/.htpasswd.jpg
+
+403        9l       28w      277c http://10.10.25.225/.htaccess.html
+
+403        9l       28w      277c http://10.10.25.225/.htpasswd.html
+
+403        9l       28w      277c http://10.10.25.225/.htaccess.php
+
+403        9l       28w      277c http://10.10.25.225/.htpasswd.php
+
+301        9l       28w      310c http://10.10.25.225/css
+
+403        9l       28w      277c http://10.10.25.225/css/.htaccess
+
+403        9l       28w      277c http://10.10.25.225/css/.htpasswd
+
+403        9l       28w      277c http://10.10.25.225/css/.htaccess.txt
+
+403        9l       28w      277c http://10.10.25.225/css/.htpasswd.txt
+
+403        9l       28w      277c http://10.10.25.225/css/.htaccess.pdf
+
+403        9l       28w      277c http://10.10.25.225/css/.htpasswd.pdf
+
+403        9l       28w      277c http://10.10.25.225/css/.htaccess.png
+
+403        9l       28w      277c http://10.10.25.225/css/.htpasswd.png
+
+403        9l       28w      277c http://10.10.25.225/css/.htaccess.jpg
+
+403        9l       28w      277c http://10.10.25.225/css/.htpasswd.jpg
+
+403        9l       28w      277c http://10.10.25.225/css/.htaccess.html
+
+403        9l       28w      277c http://10.10.25.225/css/.htpasswd.html
+
+403        9l       28w      277c http://10.10.25.225/css/.htaccess.php
+
+403        9l       28w      277c http://10.10.25.225/css/.htpasswd.php
+
+200       23l      234w     1414c http://10.10.25.225/index.html
+
+403        9l       28w      277c http://10.10.25.225/server-status
+
