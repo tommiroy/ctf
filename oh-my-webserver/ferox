@@ -1,0 +1,54 @@
+403        7l       20w      199c http://10.10.150.19/.htpasswd
+
+403        7l       20w      199c http://10.10.150.19/.htaccess
+
+301        7l       20w      235c http://10.10.150.19/assets
+
+403        7l       20w      199c http://10.10.150.19/assets/.htaccess
+
+403        7l       20w      199c http://10.10.150.19/assets/.htpasswd
+
+403        7l       20w      199c http://10.10.150.19/cgi-bin/
+
+403        7l       20w      199c http://10.10.150.19/cgi-bin/.htaccess
+
+403        7l       20w      199c http://10.10.150.19/cgi-bin/.htpasswd
+
+301        7l       20w      239c http://10.10.150.19/assets/css
+
+403        7l       20w      199c http://10.10.150.19/assets/css/.htpasswd
+
+403        7l       20w      199c http://10.10.150.19/assets/css/.htaccess
+
+301        7l       20w      241c http://10.10.150.19/assets/fonts
+
+403        7l       20w      199c http://10.10.150.19/assets/fonts/.htaccess
+
+403        7l       20w      199c http://10.10.150.19/assets/fonts/.htpasswd
+
+301        7l       20w      242c http://10.10.150.19/assets/images
+
+403        7l       20w      199c http://10.10.150.19/assets/images/.htaccess
+
+403        7l       20w      199c http://10.10.150.19/assets/images/.htpasswd
+
+301        7l       20w      238c http://10.10.150.19/assets/js
+
+403        7l       20w      199c http://10.10.150.19/assets/js/.htpasswd
+
+403        7l       20w      199c http://10.10.150.19/assets/js/.htaccess
+
+500       14l       69w      528c http://10.10.150.19/cgi-bin/test-cgi
+
+301        7l       20w      248c http://10.10.150.19/assets/images/shape
+
+403        7l       20w      199c http://10.10.150.19/assets/images/shape/.htpasswd
+
+403        7l       20w      199c http://10.10.150.19/assets/images/shape/.htaccess
+
+301        7l       20w      245c http://10.10.150.19/assets/js/vendor
+
+403        7l       20w      199c http://10.10.150.19/assets/js/vendor/.htaccess
+
+403        7l       20w      199c http://10.10.150.19/assets/js/vendor/.htpasswd
+

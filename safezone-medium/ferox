@@ -1,0 +1,46 @@
+403        9l       28w      278c http://10.10.254.231/.htaccess
+
+403        9l       28w      278c http://10.10.254.231/.htpasswd
+
+403        9l       28w      278c http://10.10.254.231/.htaccess.txt
+
+403        9l       28w      278c http://10.10.254.231/.htpasswd.txt
+
+403        9l       28w      278c http://10.10.254.231/.htaccess.png
+
+403        9l       28w      278c http://10.10.254.231/.htpasswd.png
+
+403        9l       28w      278c http://10.10.254.231/.htaccess.jpg
+
+403        9l       28w      278c http://10.10.254.231/.htpasswd.jpg
+
+403        9l       28w      278c http://10.10.254.231/.htaccess.pdf
+
+403        9l       28w      278c http://10.10.254.231/.htpasswd.pdf
+
+403        9l       28w      278c http://10.10.254.231/.htaccess.html
+
+403        9l       28w      278c http://10.10.254.231/.htpasswd.html
+
+403        9l       28w      278c http://10.10.254.231/.htaccess.php
+
+403        9l       28w      278c http://10.10.254.231/.htpasswd.php
+
+302       57l       82w      922c http://10.10.254.231/dashboard.php
+
+302      117l       92w     1103c http://10.10.254.231/detail.php
+
+200       23l       55w      503c http://10.10.254.231/index.html
+
+200       46l      126w     2372c http://10.10.254.231/index.php
+
+200        3l        3w       54c http://10.10.254.231/logout.php
+
+302       57l       82w      922c http://10.10.254.231/news.php
+
+200        3l       21w      121c http://10.10.254.231/note.txt
+
+200       45l      123w     2334c http://10.10.254.231/register.php
+
+403        9l       28w      278c http://10.10.254.231/server-status
+
