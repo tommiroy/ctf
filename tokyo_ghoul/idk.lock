@@ -1,9 +1,0 @@
-#Ghidra Lock File
-#Wed Jul 13 11:23:46 CEST 2022
-OS\ Name=Linux
-OS\ Version=5.18.0-1parrot1-amd64
-Username=berran
-Hostname=berran-parrot
-<META>\ Supports\ File\ Channel\ Locking=Channel Lock
-OS\ Architecture=amd64
-Timestamp=7/13/22, 11\:23 AM

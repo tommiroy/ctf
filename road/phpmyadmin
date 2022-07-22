@@ -1,0 +1,16 @@
+POST /phpMyAdmin/index.php?route=/ HTTP/1.1
+Host: 10.10.78.240
+Content-Length: 126
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: null
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-GPC: 1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: pma_lang=en; phpMyAdmin=qvs75ihjqet4drk4cool5nnqkm; PHPSESSID=r9gmqb3oug79in76irq2soqvsm; Bookings=0; Manifest=0; Pickup=0; Delivered=0; Delay=0; CODINR=0; POD=0; cu=0
+Connection: close
+
+set_session=qvs75ihjqet4drk4cool5nnqkm&pma_username=a&pma_password=a&server=1&route=%2F&token=747375506b6c627a587f453f6f6c6e66

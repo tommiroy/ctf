@@ -1,0 +1,164 @@
+403        9l       28w      277c http://10.10.78.240/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/.htpasswd
+
+301        9l       28w      313c http://10.10.78.240/assets
+
+403        9l       28w      277c http://10.10.78.240/assets/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/assets/.htpasswd
+
+301        9l       28w      317c http://10.10.78.240/assets/css
+
+403        9l       28w      277c http://10.10.78.240/assets/css/.htpasswd
+
+403        9l       28w      277c http://10.10.78.240/assets/css/.htaccess
+
+301        9l       28w      317c http://10.10.78.240/assets/img
+
+301        9l       28w      316c http://10.10.78.240/assets/js
+
+403        9l       28w      277c http://10.10.78.240/assets/img/.htpasswd
+
+301        9l       28w      317c http://10.10.78.240/phpMyAdmin
+
+403        9l       28w      277c http://10.10.78.240/assets/img/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/.htpasswd
+
+403        9l       28w      277c http://10.10.78.240/assets/js/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/assets/js/.htpasswd
+
+301        9l       28w      328c http://10.10.78.240/assets/img/background
+
+403        9l       28w      277c http://10.10.78.240/server-status
+
+200      565l     6616w    41123c http://10.10.78.240/phpMyAdmin/ChangeLog
+
+200      339l     2968w    18092c http://10.10.78.240/phpMyAdmin/LICENSE
+
+200       52l      212w     1520c http://10.10.78.240/phpMyAdmin/README
+
+301        9l       28w      309c http://10.10.78.240/v2
+
+403        9l       28w      277c http://10.10.78.240/v2/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/v2/.htpasswd
+
+301        9l       28w      321c http://10.10.78.240/phpMyAdmin/doc
+
+301        9l       28w      315c http://10.10.78.240/v2/admin
+
+403        9l       28w      277c http://10.10.78.240/v2/admin/.htaccess
+
+301        9l       28w      326c http://10.10.78.240/phpMyAdmin/examples
+
+200       98l      278w    22486c http://10.10.78.240/phpMyAdmin/favicon.ico
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/examples/.htpasswd
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/examples/.htaccess
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/libraries
+
+301        9l       28w      324c http://10.10.78.240/phpMyAdmin/locale
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/locale/.htpasswd
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/locale/.htaccess
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/ar
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/az
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/be
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/bg
+
+301        9l       28w      326c http://10.10.78.240/phpMyAdmin/doc/html
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/doc/html/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/doc/html/.htpasswd
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/bn
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/ca
+
+301        9l       28w      333c http://10.10.78.240/phpMyAdmin/libraries/cache
+
+301        9l       28w      334c http://10.10.78.240/phpMyAdmin/doc/html/_images
+
+301        9l       28w      334c http://10.10.78.240/phpMyAdmin/doc/html/_static
+
+301        9l       28w      333c http://10.10.78.240/phpMyAdmin/libraries/certs
+
+301        9l       28w      335c http://10.10.78.240/phpMyAdmin/libraries/classes
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/cs
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/da
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/de
+
+200        2l        4w       26c http://10.10.78.240/phpMyAdmin/robots.txt
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/el
+
+301        9l       28w      342c http://10.10.78.240/phpMyAdmin/libraries/classes/Server
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/es
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/et
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/locale/et/.htpasswd
+
+301        9l       28w      321c http://10.10.78.240/phpMyAdmin/sql
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/fi
+
+301        9l       28w      323c http://10.10.78.240/assets/js/vendor
+
+403        9l       28w      277c http://10.10.78.240/assets/js/vendor/.htpasswd
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/locale/fr
+
+301        9l       28w      327c http://10.10.78.240/phpMyAdmin/templates
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/templates/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/locale/fr/.htaccess
+
+301        9l       28w      335c http://10.10.78.240/phpMyAdmin/templates/plugins
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/templates/plugins/.htaccess
+
+403        9l       28w      277c http://10.10.78.240/phpMyAdmin/templates/plugins/.htpasswd
+
+301        9l       28w      333c http://10.10.78.240/phpMyAdmin/templates/table
+
+301        9l       28w      339c http://10.10.78.240/phpMyAdmin/templates/table/chart
+
+301        9l       28w      340c http://10.10.78.240/phpMyAdmin/templates/table/delete
+
+301        9l       28w      340c http://10.10.78.240/phpMyAdmin/templates/table/export
+
+301        9l       28w      340c http://10.10.78.240/phpMyAdmin/templates/table/import
+
+301        9l       28w      340c http://10.10.78.240/phpMyAdmin/templates/table/insert
+
+301        9l       28w      345c http://10.10.78.240/phpMyAdmin/templates/table/maintenance
+
+301        9l       28w      344c http://10.10.78.240/phpMyAdmin/templates/table/operations
+
+301        9l       28w      342c http://10.10.78.240/phpMyAdmin/templates/table/relation
+
+301        9l       28w      340c http://10.10.78.240/phpMyAdmin/templates/table/search
+
+301        9l       28w      343c http://10.10.78.240/phpMyAdmin/templates/table/structure
+
+301        9l       28w      342c http://10.10.78.240/phpMyAdmin/templates/table/tracking
+
