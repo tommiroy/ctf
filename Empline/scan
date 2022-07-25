@@ -1,0 +1,46 @@
+# Nmap 7.92 scan initiated Mon Jul 25 14:43:16 2022 as: nmap -sC -sT -A -p- -T4 -o scan 10.10.141.196
+Nmap scan report for 10.10.141.196
+Host is up (0.033s latency).
+Not shown: 65532 closed tcp ports (conn-refused)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 c0:d5:41:ee:a4:d0:83:0c:97:0d:75:cc:7b:10:7f:76 (RSA)
+|   256 83:82:f9:69:19:7d:0d:5c:53:65:d5:54:f6:45:db:74 (ECDSA)
+|_  256 4f:91:3e:8b:69:69:09:70:0e:82:26:28:5c:84:71:c9 (ED25519)
+80/tcp   open  http    Apache httpd 2.4.29 ((Ubuntu))
+|_http-title: Empline
+|_http-server-header: Apache/2.4.29 (Ubuntu)
+3306/tcp open  mysql   MySQL 5.5.5-10.1.48-MariaDB-0ubuntu0.18.04.1
+| mysql-info: 
+|   Protocol: 10
+|   Version: 5.5.5-10.1.48-MariaDB-0ubuntu0.18.04.1
+|   Thread ID: 86
+|   Capabilities flags: 63487
+|   Some Capabilities: Speaks41ProtocolNew, Speaks41ProtocolOld, FoundRows, SupportsCompression, DontAllowDatabaseTableColumn, LongColumnFlag, InteractiveClient, IgnoreSigpipes, ODBCClient, Support41Auth, IgnoreSpaceBeforeParenthesis, ConnectWithDatabase, SupportsLoadDataLocal, LongPassword, SupportsTransactions, SupportsMultipleStatments, SupportsMultipleResults, SupportsAuthPlugins
+|   Status: Autocommit
+|   Salt: DBZ!2u|-iIpz6;fmsz.n
+|_  Auth Plugin Name: mysql_native_password
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.92%E=4%D=7/25%OT=22%CT=1%CU=38595%PV=Y%DS=2%DC=T%G=Y%TM=62DE900
+OS:4%P=x86_64-pc-linux-gnu)SEQ(SP=107%GCD=1%ISR=109%TI=Z%CI=Z%II=I%TS=A)OPS
+OS:(O1=M505ST11NW7%O2=M505ST11NW7%O3=M505NNT11NW7%O4=M505ST11NW7%O5=M505ST1
+OS:1NW7%O6=M505ST11)WIN(W1=F4B3%W2=F4B3%W3=F4B3%W4=F4B3%W5=F4B3%W6=F4B3)ECN
+OS:(R=Y%DF=Y%T=40%W=F507%O=M505NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=A
+OS:S%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R
+OS:=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F
+OS:=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%
+OS:T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD
+OS:=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   32.48 ms 10.11.0.1
+2   32.96 ms 10.10.141.196
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jul 25 14:43:48 2022 -- 1 IP address (1 host up) scanned in 32.16 seconds

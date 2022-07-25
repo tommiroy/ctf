@@ -1,0 +1,77 @@
+200      GET      288l      914w    14058c http://10.10.141.196/
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd
+301      GET        9l       28w      315c http://10.10.141.196/assets => http://10.10.141.196/assets/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.141.196/assets (Apache)
+301      GET        9l       28w      319c http://10.10.141.196/javascript => http://10.10.141.196/javascript/
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd
+403      GET        9l       28w      278c http://10.10.141.196/server-status
+301      GET        9l       28w      326c http://10.10.141.196/javascript/jquery => http://10.10.141.196/javascript/jquery/
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd
+200      GET    10253l    40948w   268026c http://10.10.141.196/javascript/jquery/jquery
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd
+200      GET      288l      914w    14058c http://10.10.141.196/
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.pdf
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.pdf
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.png
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.png
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.jpg
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.jpg
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.txt
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.txt
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd
+200      GET      288l      914w    14058c http://10.10.141.196/
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.pdf
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.pdf
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.png
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.jpg
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.txt
+403      GET        9l       28w      278c http://10.10.141.196/.php
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/.htpasswd.php
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.png
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.jpg
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.txt
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/.htaccess.php
+301      GET        9l       28w      315c http://10.10.141.196/assets => http://10.10.141.196/assets/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.141.196/assets (Apache)
+301      GET        9l       28w      319c http://10.10.141.196/javascript => http://10.10.141.196/javascript/
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd.pdf
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd.png
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd.jpg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd.txt
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htpasswd.php
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess.pdf
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess.png
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess.jpg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess.txt
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.htaccess.php
+403      GET        9l       28w      278c http://10.10.141.196/server-status
+301      GET        9l       28w      326c http://10.10.141.196/javascript/jquery => http://10.10.141.196/javascript/jquery/
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd.pdf
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess.pdf
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd.png
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess.png
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd.jpg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess.jpg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd.txt
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess.txt
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htaccess.php
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd.jpeg
+403      GET        9l       28w      278c http://10.10.141.196/javascript/jquery/.htpasswd.php
+403      GET        9l       28w      278c http://10.10.141.196/javascript/.php
+200      GET    10253l    40948w   268026c http://10.10.141.196/javascript/jquery/jquery
