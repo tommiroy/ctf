@@ -1,0 +1,94 @@
+200      GET      375l      964w    10918c http://10.10.90.37/
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess
+301      GET        9l       28w      312c http://10.10.90.37/console => http://10.10.90.37/console/
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd
+301      GET        9l       28w      316c http://10.10.90.37/console/css => http://10.10.90.37/console/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.90.37/console/css (Apache)
+403      GET        9l       28w      276c http://10.10.90.37/server-status
+200      GET        2l        4w       25c http://10.10.90.37/console/robots.txt
+301      GET        9l       28w      323c http://10.10.90.37/console/securimage => http://10.10.90.37/console/securimage/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.90.37/console/securimage (Apache)
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess
+200      GET      375l      964w    10918c http://10.10.90.37/
+403      GET        9l       28w      276c http://10.10.90.37/.php
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.php
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.jpg
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.png
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.txt
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.pdf
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.php
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.jpg
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.png
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.txt
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.pdf
+301      GET        9l       28w      312c http://10.10.90.37/console => http://10.10.90.37/console/
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.php
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.jpg
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.png
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.txt
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.pdf
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.php
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.jpg
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.png
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.txt
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.pdf
+200      GET        0l        0w        0c http://10.10.90.37/console/config.php
+301      GET        9l       28w      316c http://10.10.90.37/console/css => http://10.10.90.37/console/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.90.37/console/css (Apache)
+302      GET        0l        0w        0c http://10.10.90.37/console/dashboard.php => index.php
+200      GET        0l        0w        0c http://10.10.90.37/console/functions.php
+200      GET       39l      209w     3961c http://10.10.90.37/console/index.php
+403      GET        9l       28w      276c http://10.10.90.37/server-status
+200      GET        2l        4w       25c http://10.10.90.37/console/robots.txt
+301      GET        9l       28w      323c http://10.10.90.37/console/securimage => http://10.10.90.37/console/securimage/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.90.37/console/securimage (Apache)
+200      GET      375l      964w    10918c http://10.10.90.37/
+403      GET        9l       28w      276c http://10.10.90.37/.php
+403      GET        9l       28w      276c http://10.10.90.37/.phps
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.php
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.jpg
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.png
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.txt
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.pdf
+403      GET        9l       28w      276c http://10.10.90.37/.htaccess.phps
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.php
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.jpg
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.png
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.txt
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.pdf
+403      GET        9l       28w      276c http://10.10.90.37/.htpasswd.phps
+301      GET        9l       28w      312c http://10.10.90.37/console => http://10.10.90.37/console/
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.php
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.jpg
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.png
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.txt
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.php
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.pdf
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.jpg
+403      GET        9l       28w      276c http://10.10.90.37/console/.htaccess.phps
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.png
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.txt
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.pdf
+403      GET        9l       28w      276c http://10.10.90.37/console/.htpasswd.phps
+200      GET        0l        0w        0c http://10.10.90.37/console/config.php
+200      GET        4l       20w      354c http://10.10.90.37/console/config.phps
+301      GET        9l       28w      316c http://10.10.90.37/console/css => http://10.10.90.37/console/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.90.37/console/css (Apache)
+302      GET        0l        0w        0c http://10.10.90.37/console/dashboard.php => index.php
+200      GET        0l        0w        0c http://10.10.90.37/console/functions.php
+200      GET        4l       96w     2010c http://10.10.90.37/console/functions.phps
+200      GET       39l      209w     3961c http://10.10.90.37/console/index.php
+200      GET        3l      299w        0c http://10.10.90.37/console/index.phps
+403      GET        9l       28w      276c http://10.10.90.37/server-status
+200      GET        2l        4w       25c http://10.10.90.37/console/robots.txt
+301      GET        9l       28w      323c http://10.10.90.37/console/securimage => http://10.10.90.37/console/securimage/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.90.37/console/securimage (Apache)
